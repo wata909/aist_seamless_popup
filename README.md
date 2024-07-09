@@ -1,0 +1,2 @@
+# aist_seamless_popup
+産総研1/20万チームレス地質図の凡例をポップアップ表示するQGIS用のPythonスクリプト
